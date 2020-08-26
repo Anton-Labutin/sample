@@ -1,2 +1,2 @@
 # sample
-For the course "Git manual" on Steak.org
+For the course "Git manual" on Stepik.org
